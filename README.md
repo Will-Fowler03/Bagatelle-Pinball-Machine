@@ -11,7 +11,5 @@ The word **"Bagatelle”** refers to the mechanical nature of this project. This
 - To add a skeleton-noise effect
 - User must be able to reset gameplay without removing cover
 
-  ## The Struggles
-  
-
+## The Product!
 <img width="392" height="523" alt="image" src="https://github.com/user-attachments/assets/ff620bb2-361f-451f-ad0c-b39ddf742e88" />
