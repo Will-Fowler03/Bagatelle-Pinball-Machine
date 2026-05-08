@@ -13,3 +13,4 @@ The word **"Bagatelle”** refers to the mechanical nature of this project. This
 
 ## The Product!
 <img width="392" height="523" alt="image" src="https://github.com/user-attachments/assets/ff620bb2-361f-451f-ad0c-b39ddf742e88" />
+_Isometric view of finished product_
